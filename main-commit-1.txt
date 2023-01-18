@@ -6,3 +6,5 @@ branch6-commit-1
 =======
 main-commit-after-branch6-commit-1
 main
+
+new-commit-1-main
