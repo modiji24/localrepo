@@ -1,4 +1,8 @@
 mistake-commit-1
 mistake commit-2
 right-commit-1
+branch6
+branch6-commit-1
+=======
 main-commit-after-branch6-commit-1
+main
